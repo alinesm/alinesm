@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**alinesm/alinesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aline Moura** 
 
-Here are some ideas to get you started:
+I am a Teleinformatics Engineer, postgraduate in Strategic Business Management and PMP Certified specializing in Data Science. Since 2021, i have developed solutions for business problems from the conception of the business challenge, data manipulation and exploratory analysis to training machine learning models and then converting algorithm performance into information and results for the company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Analytical Tools:
+- Data Collect: SQL
+- Data Processing and Analysis: Pyhton (Pandas - Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
+- Development: Git, Jupyter, Streamlit
+- Data Visualization: Tableau.
+- Machine Learning Modeling: Classification, Regression, Clustering and "Learning to Ranking". 
+- Machine Learning Deployment: Heroku, Amazon AWS.
+
+The description of each project is detailed below.
