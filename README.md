@@ -12,7 +12,7 @@ I am a Teleinformatics Engineer, postgraduate in Strategic Business Management a
 
 # Portifolio
 
-## [Insiders Clustering](https://github.com/alinesm/Clustering-Insiders)
+## [Insiders Clustering](https://github.com/alinesm/Clustering-Insiders-)
 
 A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The company needs to find significant customers for the business who make high purchases of their favourite products, with the intent of rolling out a loyalty program to the high-value customers after identification of segments. Use the clustering methodology to segment customers into groups.
 
