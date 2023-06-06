@@ -1,29 +1,52 @@
-# **Aline Moura** 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>
 
-I am a Teleinformatics Engineer, postgraduate in Strategic Business Management and PMP Certified specializing in Data Science. Since 2021, i have developed solutions for business problems from the conception of the business challenge, data manipulation and exploratory analysis to training machine learning models and then converting algorithm performance into information and results for the company.
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
-**Analytical Tools:**
-- Data Collect: SQL
-- Data Processing and Analysis: Pyhton (Pandas - Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
-- Development: Git, Jupyter, Streamlit
-- Data Visualization: Tableau.
-- Machine Learning Modeling: Classification, Regression, Clustering and "Learning to Ranking". 
-- Machine Learning Deployment: Heroku, Amazon AWS.
+I am Aline, a software developer with a background in Telecommunications Engineering, a postgraduate degree in Strategic Business Management, and proudly certified as a PMP (Project Management Professional).
 
-# Portifolio
+In the beginning of 2022, I decided to explore the field of software development and discovered a true passion. To enhance my skills, I participated in the intensive Driven Bootcamp, completing over 1200 hours of training and creating more than 20 applications based on real business problems and challenges.
 
-## [Insiders Clustering](https://github.com/alinesm/Clustering-Insiders-)
+I have a diverse professional background, including experience in data analysis working for a multinational telecommunications company, project management, and business development.
 
-A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The company needs to find significant customers for the business who make high purchases of their favourite products, with the intent of rolling out a loyalty program to the high-value customers after identification of segments. Use the clustering methodology to segment customers into groups.
+My objective is always to generate impactful and relevant solutions through technology.
 
-By performing feature engineering, data preparation, and dimensionality reduction, it is possible to evaluate a natural tendency of customers to cluster together. Moreover, I used Random Forest Regressor embedding as a way to represent a new feature space, before applying UMAP and t-SNE reduction on the data. The combination of a forest embedding and UMAP gave me the best results in clustering customers, giving a silhouette score of 0,67 for 8 cluster with the K-means algorithm.
-
-## [Insurance Cross Selling](https://github.com/alinesm/Insurance-Cross-Selling-/blob/main/pa004-portifolio.ipynb)
-A health insurance company wants to offer to their customer a new service, such as car insurance. For primary approach the company carried out a survey to verify the interest of customers, thought this data the objective is to classify and rank customers according to their probability of purchasing auto insurance, and customers with the highest purchase propensity are prioritized and placed at the top of the list. In this way, optimizing the contact process of the commercial team and helping them to make more accurate decisions. As a result, was created a algorithm that performance almost 3 times better than the actual random method of selecting customers.
-
-## [Store Sales Prediction](https://github.com/alinesm/Store-Sales-Prediction/blob/main/m09_v01_store_sales_prediction-Original.ipynb)
-
-Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
+## ⚡ Talk to me About
+- Front-end development
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />  
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+  <img alt='' src='https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white' >
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt='tailwind' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=style=flat-square&logo=tailwind-css&logoColor=white' />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />    
+ </p>
+  
+ - Back-end development 
+<p> 
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt='express' src='https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white' />
+    <img alt='postgres' src='https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white' />
+    <img alt='prisma' src='https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white' />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt='jwt' src='https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white' />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
+  
+- languages  
+ <p>
+    <img alt='javascript' src='https://img.shields.io/badge/JavaScript-323330?style=style=flat-square&logo=javascript&logoColor=F7DF1E' />  
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ </p>
+ 
+ - Data analytics
+<p>
+  <img alt='' src='https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue' />
+  <img alt='' src='https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white' />
+  <img alt='' src='https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white' />
+  <img alt='' src=' https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white' />
+<img alt='' src='https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white' />
+</p>
 <!--
 
 -->
