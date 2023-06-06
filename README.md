@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <a href="https://www.linkedin.com/in/aline-souza-moura/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
@@ -8,7 +8,7 @@ In the beginning of 2022, I decided to explore the field of software development
 
 I have a diverse professional background, including experience in data analysis working for a multinational telecommunications company, project management, and business development.
 
-My objective is always to generate impactful and relevant solutions through technology.
+My goal is always generate impactful and relevant solutions through technology.
 
 ## ⚡ Talk to me About
 - Front-end development
