@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <a href="https://www.linkedin.com/in/aline-souza-moura/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
@@ -10,7 +11,8 @@ I have a diverse professional background, including experience in data analysis 
 
 My goal is always generate impactful and relevant solutions through technology.
 
-## ⚡ Talk to me About
+## ⚡ Technologies
+Talk to me about:
 - Front-end development
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />  
@@ -47,6 +49,7 @@ My goal is always generate impactful and relevant solutions through technology.
   <img alt='' src=' https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white' />
 <img alt='' src='https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white' />
 </p>
+
 <!--
 
 -->
